@@ -1,0 +1,51 @@
+4
+Kodaline
+In a perfect world
+images/kodaline.jpeg
+3
+5
+All I want
+sounds/Kodaline - All I Want.mp3
+The One
+sounds/Kodaline - The One.mp3
+High Hopes
+sounds/Kodaline - High Hopes.mp3
+One day
+sounds/Kodaline - one day.mp3
+The Answer
+sounds/Kodaline - The Answer.mp3
+James Arthur
+Back from the edge
+images/james.jpeg
+2
+3
+Say you wont let go
+sounds/James Arthur - Say You Wont Let Go.mp3
+Can i be him
+sounds/James Arthur - Can I Be Him.mp3
+Falling like the stars
+sounds/James Arthur - Falling Like The Stars.mp3
+Eminem
+Greatest Hits
+images/eminem.jpeg
+1
+4
+Homicide
+sounds/Logic feat. Eminem - Homicide.mp3
+Headlights
+sounds/Eminem - Headlights.mp3
+My name is
+sounds/Eminem - My Name Is.mp3
+Guts over fear
+sounds/eminem ft. sia - guts over fear.mp3
+The Weeknd
+After hours
+images/weekend.png
+4
+3
+Blinding lights
+sounds/The Weeknd - Blinding Lights.mp3
+Save your tears
+sounds/The Weeknd - Save Your Tears.mp3
+Alone again
+sounds/The Weeknd - Alone Again.mp3
